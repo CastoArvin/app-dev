@@ -20,7 +20,7 @@ Story follows **Klein Moretti**, a young man who wakes up in another world. Foll
 
 ## Klein's Pathway
 1. Sequence 9:Seer-Powers are divination, spiritual perception and ritualistic magic
-3. Sequence 8:Clown-Powers are air bullets, paper figurine substitution, flame manipulation. and damage transfer.
+3. Sequence 8:Clown-Powers are paper figurine substitution, flame manipulation. and damage transfer.
 
 ## Season 2: Faceless
 Release Date:2027
