@@ -18,9 +18,9 @@ Story follows **Klein Moretti**, a young man who wakes up in another world. Foll
 - **Potions**-The item where beyonders get their power. Potions are made of rare materials and monster parts and can be consumed as is or a ritual needs to be done first.
 - **Pathways**-Different routes of advancement for beyonders. There are 22 pathways with different abilities from each other.
 
-##Klein's Pathway
+## Klein's Pathway
 1. Sequence 9:Seer-Powers are divination, spiritual perception and ritualistic magic
 3. Sequence 8:Clown-Powers are air bullets, paper figurine substitution, flame manipulation. and damage transfer.
 
-##Season 2: Faceless
+## Season 2: Faceless
 Release Date:2027
