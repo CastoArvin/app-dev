@@ -3,7 +3,7 @@
 ### Synopsis
 Story follows **Klein Moretti**, a young man who wakes up in another world. Follow him as he discovered the world set in a Victorian era inspired world where magic and supernatural powers exist, wielders of this power are called *Beyonders*. Beneath the surface of the world hidden organizations and evil entities plot against the world. It is now Klein's job to stop them and maybe even return home.
 
-##Main Characters
+## Main Characters
 - Klein Moretti
 - Melissa Moretti
 - Dunn Smith
@@ -12,7 +12,7 @@ Story follows **Klein Moretti**, a young man who wakes up in another world. Foll
 - Alger Wilson
 - Audrey Hall
 
-##World Setting
+## World Setting
 - **Beyonders**-People who obtain abilities through drinking potion. They are the people on *The path to divine*.
 - **Sequence**-The levels of advancement of beyonder starting from 9 to 0.
 - **Potions**-The item where beyonders get their power. Potions are made of rare materials and monster parts and can be consumed as is or a ritual needs to be done first.
