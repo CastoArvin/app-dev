@@ -13,7 +13,7 @@ Story follows **Klein Moretti**, a young man who wakes up in another world. Foll
 - Audrey Hall
 
 ##World Setting
-- **Beyonders**[^1]-People who obtain abilities through drinking potion. They are the people on *The path to divine*.
+- **Beyonders**[^1]:-People who obtain abilities through drinking potion. They are the people on *The path to divine*.
 - **Sequence**-The levels of advancement of beyonder starting from 9 to 0.
 - **Potions**-The item where beyonders get their power. Potions are made of rare materials and monster parts and can be consumed as is or a ritual needs to be done first.
 - **Pathways**-Different routes of advancement for beyonders. There are 22 pathways with different abilities from each other.
